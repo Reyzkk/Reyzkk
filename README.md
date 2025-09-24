@@ -32,7 +32,4 @@
 
 ---
 
-## 📫 Como me encontrar  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexandreodie123@gmail.com)
 
----
