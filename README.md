@@ -18,9 +18,9 @@
 ---
 
 ## 📌 Projetos em destaque
-- 🎮 [War_Project](https://github.com/Reyzk/War_Project) → Cadastro de territórios em C  
-- 🕹️ [Sistema de Gestão de Jogos em C](https://github.com/Reyzk/Sistema-de-Gestao-de-Jogos-em-C) → Catálogo de jogos e empréstimos  
-- 🌐 [Exercícios em JavaScript](https://github.com/Reyzk/4-Programas-com-Js-0) → Prática de lógica + front-end simples  
+- 🎮 [War_Project](https://github.com/Reyzkk/War_Project) → Cadastro de territórios em C  
+- 🕹️ [Sistema de Gestão de Jogos em C](https://github.com/Reyzkk/Sistema-de-Gestao-de-Jogos-em-C) → Catálogo de jogos e empréstimos  
+- 🌐 [Exercícios em JavaScript](https://github.com/Reyzkk/4-Programas-com-Js-0) → Prática de lógica + front-end simples  
 
 ---
 
