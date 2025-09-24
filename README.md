@@ -34,7 +34,7 @@
 
 ## 📌 Projetos em destaque
 - 🎮 [War_Project](https://github.com/Reyzkk/War_Project) → Cadastro de territórios em C  
-- 🕹️ [Sistema de Gestão de Jogos em C](https://github.com/Reyzkk/Sistema-de-Gestao-de-Jogos-em-C) → Catálogo de jogos e empréstimos  
+- 🕹️ [Sistema de Gestão de Jogos em C](https://github.com/Reyzkk/Sistema-de-Gest-o-de-Jogos-em-C) → Catálogo de jogos e empréstimos  
 - 🤖 [HollowScript — Discord Bot em Python](https://github.com/Reyzkk/Bot-HollowScript-Project) → Bot com comandos slash, feito para aprendizado e interação no Discord
 
 
