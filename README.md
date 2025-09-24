@@ -30,14 +30,15 @@
 ## 📌 Projetos em destaque
 - 🎮 [War_Project](https://github.com/Reyzkk/War_Project) → Cadastro de territórios em C  
 - 🕹️ [Sistema de Gestão de Jogos em C](https://github.com/Reyzkk/Sistema-de-Gestao-de-Jogos-em-C) → Catálogo de jogos e empréstimos  
-- 🌐 [Exercícios em JavaScript](https://github.com/Reyzkk/4-Programas-com-Js-0) → Prática de lógica + front-end simples  
+- 🤖 [HollowScript — Discord Bot em Python](https://github.com/Reyzkk/Bot-HollowScript-Project) → Bot com comandos slash, feito para aprendizado e interação no Discord
+
 
 ---
 
 ## 📊 Estatísticas
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Reyzkk&show_icons=true&theme=tokyonight"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyzkk&layout=compact&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Reyzkk&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyzkk&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
