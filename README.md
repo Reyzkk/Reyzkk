@@ -1,8 +1,14 @@
+
 # 👨‍💻 Alexandre Concesso
 
 > Estudante de **Análise e Desenvolvimento de Sistemas**  
 > Focado em desenvolvimento web moderno com **React, TypeScript, Vite, Tailwind CSS e Node.js**
+<p>
+<img src="https://img.shields.io/badge/Desenvolvedor_Ativo-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Desenvolvedor_Fullstack-2196F3?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-rey_0555-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 
+</p>
 ---
 
 ## 🚀 Tecnologias
