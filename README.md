@@ -58,7 +58,8 @@
 
 - 🎮 [War_Project](https://github.com/Reyzkk/War_Project) — Cadastro de territórios em C  
 - 🕹️ [Sistema de Gestão de Jogos em C](https://github.com/Reyzkk/Sistema-de-Gest-o-de-Jogos-em-C) — Catálogo de jogos e empréstimos  
-- 🤖 [HollowScript — Discord Bot em Python](https://github.com/Reyzkk/Bot-HollowScript-Project) — Bot com comandos slash  
+- 🤖 [HollowScript — Discord Bot em Python](https://github.com/Reyzkk/Bot-HollowScript-Project) — Bot com comandos slash
+- 🕹️ [Landing Page](https://github.com/Reyzkk/landing-page-project) — React, Node.js e TypeScript. Simples. Rápido. Eficiente
 
 ---
 
