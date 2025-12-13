@@ -1,13 +1,24 @@
+<table>
+  <tr>
+    <td>
+      <h1>👨‍💻 Alexandre Concesso</h1>
+      <p>
+        Estudante de <b>Análise e Desenvolvimento de Sistemas</b><br>
+        Focado em desenvolvimento web moderno com <b>React, TypeScript, Vite, Tailwind CSS e Node.js</b>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Desenvolvedor_Ativo-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Desenvolvedor_Fullstack-2196F3?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Discord-rey_0555-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+      </p>
+    </td>
+    <td>
+      <img src="discord-icon.jpg" width="200" style="border-radius:50%;"/>
+    </td>
+  </tr>
+</table>
 
-# 👨‍💻 Alexandre Concesso
-
-> Estudante de **Análise e Desenvolvimento de Sistemas**  
-> Focado em desenvolvimento web moderno com **React, TypeScript, Vite, Tailwind CSS e Node.js**
-<p>
-<img src="https://img.shields.io/badge/Desenvolvedor_Ativo-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Desenvolvedor_Fullstack-2196F3?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-rey_0555-7289DA?style=for-the-badge&logo=discord&logoColor=white"/
-</p>
+<img src="image.gif" width="500" style="border-radius:50%"/>
 
 ---
 
